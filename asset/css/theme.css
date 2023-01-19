@@ -19581,14 +19581,7 @@ body.theme-dark .popover.hover-popover:not(.is-loaded) {
   font-size:10px;
 }
 
-.gridlist ul li a[href$=".html"]::before{
-  font-family:var(--font-family-inline-code);
-  content: 'HTML';
-  color: var(--text-faint);
-  margin-right: 5px;
-  font-size:10px;
-}
-
+ 
 .gridlist ul li a[href$=".pdf"]::before{
   font-family:var(--font-family-inline-code);
   content: 'PDF';
