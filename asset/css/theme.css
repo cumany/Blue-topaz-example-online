@@ -19129,11 +19129,7 @@ body.background-settings-workplace-background-image.background-settings-workplac
   --wave2-background-color: var(--background-waves-color);
 }
 
-body.is-mobile.background-settings-workplace-background-image:is(.background-settings-workplace-waves-light,.background-settings-workplace-waves2-light).theme-light,
-body.is-mobile.background-settings-workplace-background-image:is(.background-settings-workplace-waves,.background-settings-workplace-waves2).theme-dark {
-  --wave2-background-color: #001ae0;
-  --wave-background-color: #245eff;
-}
+
 
 body.background-settings-workplace-background-image.background-settings-workplace-random-dark.theme-dark {
   background-image: url("https://source.unsplash.com/random") !important;
